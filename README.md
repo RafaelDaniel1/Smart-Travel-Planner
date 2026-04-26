@@ -1,4 +1,3 @@
-# Smart-Travel-Planner 
 # Smart Travel Planner - cf_ai_travel_planner
 
 A Cloudflare-based AI application that creates personalized travel itineraries using Llama 3.3, Workers, Durable Objects (for Memory), and an API interface for chat and itinerary generation.
